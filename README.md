@@ -23,7 +23,7 @@
    ```sh
    npm init -y
    npm install express dayjs cookie-session bcrypt dotenv sqlite3 mysql2
-2. Настройте файл .env:
+2. Создайте и настройте файл .env:
 
 ```
 PORT=3000
